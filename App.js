@@ -6,7 +6,7 @@ export default function App() {
   return (
     <>
     <View style={styles.container}></View>
-    <WebView source={{uri: "https://vaya.in/"}} />
+    <WebView source={{uri: "https://dev.vaya.in/tv/"}} />
     </>
   );
 }
